@@ -1,16 +1,4 @@
 {
-  "Version": "1.0.0",
-  "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://raw.githubusercontent.com/juliorlando120/Paraguay-ing.-net-free/main/Server%20py",
-  "Sms": "BOTAR LINK DO SMS AQUI",
-  "EmailFeedback": "apolossh@gmail.com",
-  "UrlContato": "https://t.me/apolo_vx",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
-  "CheckUser": "true",
-  "Udp": [
-    {
-      "Porta": "7300"
-    }
   ],
   "Servers": [
     {
